@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "Conekta SKD for ios."
   s.homepage     = "https://conekta.com/"
-  s.license      = { :type => "MIT", :file => "LICENCE.md" }
+  s.license      = { :type => "MIT", :file => "LICENSE.md" }
   s.author             = { "Omar Hernandez" => "happones@hotmail.com" }
   s.platform     = :ios, "5.0"
   s.source       = { :git => "https://github.com/happones/conekta-ios.git", :tag => "#{s.version}" }
